@@ -1,0 +1,11 @@
+Model Information:
+* title:	KuromiToy
+* source:	https://sketchfab.com/3d-models/kuromitoy-a27bbb666ad34027bbe8399d0e33a86a
+* author:	CainJuuu (https://sketchfab.com/potatocnoiz)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "KuromiToy" (https://sketchfab.com/3d-models/kuromitoy-a27bbb666ad34027bbe8399d0e33a86a) by CainJuuu (https://sketchfab.com/potatocnoiz) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
