@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chococat (Sanrio)
+* source:	https://sketchfab.com/3d-models/chococat-sanrio-a76ff17ec9874bc09e3ed99ea10d2794
+* author:	Giorgos kyriacou (https://sketchfab.com/kyriacoupanayiotis)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chococat (Sanrio)" (https://sketchfab.com/3d-models/chococat-sanrio-a76ff17ec9874bc09e3ed99ea10d2794) by Giorgos kyriacou (https://sketchfab.com/kyriacoupanayiotis) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
