@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hello Kitty Darling Square
+* source:	https://sketchfab.com/3d-models/hello-kitty-darling-square-6c130af603bd4f6ca1b5b2d1a1ca6f54
+* author:	Jimmy Gunawan (https://sketchfab.com/jimmygunawan)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hello Kitty Darling Square" (https://sketchfab.com/3d-models/hello-kitty-darling-square-6c130af603bd4f6ca1b5b2d1a1ca6f54) by Jimmy Gunawan (https://sketchfab.com/jimmygunawan) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
