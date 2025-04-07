@@ -1,0 +1,8 @@
+Model Information:
+* title:	Sanrio Tuxedo Sam 3D Model
+* source:	https://sketchfab.com/3d-models/sanrio-tuxedo-sam-3d-model-2c715aaf07824106a0a70c4e48626d17
+* author:	SirSquiggles (https://sketchfab.com/sirsquiggles)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sanrio【Nanoblock】
+* source:	https://sketchfab.com/3d-models/sanrionanoblock-f85b3956a550443c8e5f8dc3f21053da
+* author:	adiobrick (https://sketchfab.com/adiobrick)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sanrio【Nanoblock】" (https://sketchfab.com/3d-models/sanrionanoblock-f85b3956a550443c8e5f8dc3f21053da) by adiobrick (https://sketchfab.com/adiobrick) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
