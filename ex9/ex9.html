@@ -10,6 +10,17 @@
             <img id="imgEntrada" src="start.png" >
             <a-asset-item id="hellokitty" src="hello_kitty/scene.gltf"></a-asset-item>
             <a-asset-item id="kuromi" src="kuromitoy/scene.gltf"></a-asset-item>
+            <a-asset-item id="cinna" src="cinnamoroll/scene.gltf"></a-asset-item>
+            <a-asset-item id="choco" src="chococat_sanrio/scene.gltf"></a-asset-item>
+            <a-asset-item id="ping" src="sanrio_tuxedo_sam_3d_model/scene.gltf"></a-asset-item>
+            <a-asset-item id="sanrio" src="sanrionanoblock/scene.gltf"></a-asset-item>
+            <a-asset-item id="kitty" src="hello_kitty_darling_square/scene.gltf"></a-asset-item>
+
+
+
+
+
+
                    
         </a-assets>
 
@@ -32,7 +43,7 @@
 
 
         <!-- Entorn 360 inicial HEU DE POSAR UN FONS ESTRELLAT-->
-        <a-sky id="sky" color="black"></a-sky>
+        <a-sky id="sky" img src="h.jpg"></a-sky>
 
 
         <a-plane id="inici" position="0 0.6 -5" src="#imgEntrada" rotation="0 0 0"
@@ -52,6 +63,17 @@
       animation="property: position; dur: 3000; from: 5 2 0; to: 5 1 -5; dir: alternate; loop: true"
       visible="false">           
       </a-entity>
+
+      <a-entity gltf-model="#cinna" position="0 1 -10" scale="0.1 0.1 0.1" >
+      </a-entity>
+      <a-entity gltf-model="#choco" position="1 2 -10" scale="1 1 1" ></a-entity>
+      <a-entity gltf-model="#ping" position="2 4 -10" scale="0.4 0.4 0.4" ></a-entity>
+      <a-entity gltf-model="#sanrio" position="-4 -7 -40" scale="1 1 1" ></a-entity>
+      <a-entity gltf-model="#kitty" position="-14 2 -40" scale="2 2 2" ></a-entity>
+
+
+
+
 
 
 
