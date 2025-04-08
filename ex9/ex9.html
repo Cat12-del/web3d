@@ -2,6 +2,8 @@
 <html>
   <head>
     <script src="https://aframe.io/releases/1.6.0/aframe.min.js"></script>
+    <script src="https://cdn.rawgit.com/donmccurdy/aframe-extras/v6.1.0/dist/aframe-extras.min.js"></script>
+
   </head>
   <body>
   <a-scene cursor="rayOrigin: mouse">
@@ -9,12 +11,16 @@
             <!--imatge del botó de entrada-->  
             <img id="imgEntrada" src="start.png" >
             <a-asset-item id="hellokitty" src="hello_kitty/scene.gltf"></a-asset-item>
-            <a-asset-item id="kuromi" src="kuromitoy/scene.gltf"></a-asset-item>
+            <a-asset-item id="kuromi" src="hammerhead_shark/scene.gltf"></a-asset-item>
             <a-asset-item id="cinna" src="cinnamoroll/scene.gltf"></a-asset-item>
             <a-asset-item id="choco" src="chococat_sanrio/scene.gltf"></a-asset-item>
             <a-asset-item id="ping" src="sanrio_tuxedo_sam_3d_model/scene.gltf"></a-asset-item>
             <a-asset-item id="sanrio" src="sanrionanoblock/scene.gltf"></a-asset-item>
             <a-asset-item id="kitty" src="hello_kitty_darling_square/scene.gltf"></a-asset-item>
+            <a-asset-item id="anime" src="anime_animated/scene.gltf"></a-asset-item>
+            <a-asset-item id="koko" src="black_myth_wukong_-_tiao_lang_jiao_animation/scene.gltf"></a-asset-item>
+
+
 
 
 
@@ -59,17 +65,31 @@
         visible="false">          
       </a-entity>
 
-      <a-entity gltf-model="#kuromi" position="5 2 0" scale="1 1 1" id="ovni2" explota=""
+      <a-entity gltf-model="#anime" position="-7 -2 -15" rotation="0 -91 0" scale="0.5 0.5 0.5" id="ovni3" explota="" animation-mixer="clip: solaD6CartWheel"
+        animation="property: position; dur: 3000; from: -5 0 -5; to: 5 0 -5; dir: alternate; loop: true"
+        visible="false">          
+      </a-entity>
+     
+     
+
+      <a-entity gltf-model="#kuromi" position="-8 -2 -15" rotation="0 -91 0" scale="1 1 1" id="ovni2" explota="" animation="floatBufferViews"
       animation="property: position; dur: 3000; from: 5 2 0; to: 5 1 -5; dir: alternate; loop: true"
       visible="false">           
       </a-entity>
 
-      <a-entity gltf-model="#cinna" position="0 1 -10" scale="0.1 0.1 0.1" >
+      <a-entity gltf-model="#koko" position="5 -0.20 10" rotation="0 -94 0" scale="0.01 0.01 0.01" id="ovni4" explota=""
+      animation="property: position; dur: 3000; from: 5 2 0; to: 5 1 -5; dir: alternate; loop: true"
+      visible="false">           
+      </a-entity>
+      
+
+
+      <a-entity gltf-model="#cinna" position="0 -0.67 5" rotation="0 -173 0" scale="1 1 1" >
       </a-entity>
       <a-entity gltf-model="#choco" position="1 2 -10" scale="1 1 1" ></a-entity>
       <a-entity gltf-model="#ping" position="2 4 -10" scale="0.4 0.4 0.4" ></a-entity>
       <a-entity gltf-model="#sanrio" position="-4 -7 -40" scale="1 1 1" ></a-entity>
-      <a-entity gltf-model="#kitty" position="-14 2 -40" scale="2 2 2" ></a-entity>
+      <a-entity gltf-model="#kitty" position="-14 -20 -40" scale="2 2 2" ></a-entity>
 
 
 
@@ -117,13 +137,28 @@
 
           if (segons==15){
             document.querySelector('#ovni2').setAttribute('visible', false);
+            document.querySelector('#ovni3').setAttribute('visible', true);
             //aquí ha de mostrar el següent ovni
           }
+
+          if (segons==30){
+            document.querySelector('#ovni3').setAttribute('visible', false);
+            document.querySelector('#ovni4').setAttribute('visible', true);
+
+          
+          
+          } 
+          if (segons==40){
+            document.querySelector('#ovni4').setAttribute('visible', false);
+
+
+          }
+
          
 
 
           //quan arriba a uns segons determinats, para la partida i mostra la puntuació
-          if (segons>25) {
+          if (segons>50) {
             segons=0;//para el rellotge
             alert ("Punts: "+punts);    //MOSTRA LA PUNTUACIO
             punts=0;  //reinicia la puntuacio
