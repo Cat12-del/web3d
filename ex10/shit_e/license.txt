@@ -1,0 +1,11 @@
+Model Information:
+* title:	Shit_E
+* source:	https://sketchfab.com/3d-models/shit-e-30dc7cab9efc456c927453f86559bb38
+* author:	TheMerdaSet_ (https://sketchfab.com/TheMerdaSet_)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Shit_E" (https://sketchfab.com/3d-models/shit-e-30dc7cab9efc456c927453f86559bb38) by TheMerdaSet_ (https://sketchfab.com/TheMerdaSet_) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

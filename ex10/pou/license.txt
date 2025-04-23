@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pou
+* source:	https://sketchfab.com/3d-models/pou-52548afb57454c87b37ee2b0a978a1e2
+* author:	alexvladimircm (https://sketchfab.com/alexvladimircm)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pou" (https://sketchfab.com/3d-models/pou-52548afb57454c87b37ee2b0a978a1e2) by alexvladimircm (https://sketchfab.com/alexvladimircm) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
